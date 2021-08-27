@@ -1,0 +1,6 @@
+version: 2
+
+
+analyses:
+  - name: my_first_analysis
+    description: "Some description of analysis"
